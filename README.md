@@ -6,7 +6,7 @@ O# OSS Audit — VLC Media Player
 **Registration Number:** 24MIM10008
 **Course:** CSE0002 — Open Source Software | VIT Bhopal University
 **Software Audited:** VLC Media Player (LGPL v2.1 / GPL v2)
-**Repository:** oss-audit-24MIM10008
+**Repository:** OSSanushka24mim10008
 
 ---
 
